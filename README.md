@@ -17,4 +17,10 @@ v.	Cases of failing: limitations to the current method
 vi.	Sensitivity analysis: how does the boundary identification process behave when you twist dials or change parameters?
 ## 3.	Write the results
 a.	Write in text what the figures tell me
-## 4. Polish, Proof, Polish again
+## 4. Write your discussion
+a. What explains your results? Why did whatever happen happen?
+b. What are the critical limitations?
+c. If you had $1M and 6 more months, what would you do next?
+## 5. Polish, Proof, Polish again, Proof again
+## 6. Publish
+## 7. Revise and publish again!
