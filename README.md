@@ -1,6 +1,4 @@
-# how_to_write_a_paper
-
-How to write a paper 1010
+# how_to_write_a_paper 1010
 a short course by jakob d hamilton
 
 ## 1.	Make your story
